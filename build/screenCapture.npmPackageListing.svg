@@ -1,0 +1,46 @@
+<svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="686" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 04:28:14 +0000   344366 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 04:28:14 +0000     1401 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 04:28:14 +0000    11357 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 04:28:14 +0000      163 bytes  NOTICE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 04:28:14 +0000    24739 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 04:28:14 +0000    11947 bytes  RELEASENOTES.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 04:28:14 +0000    12235 bytes  doc/de/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 04:28:14 +0000    11637 bytes  doc/de/index.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 04:28:14 +0000    12449 bytes  doc/es/README.md</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 04:28:14 +0000    11306 bytes  doc/es/index.md</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 04:28:14 +0000    12276 bytes  doc/fr/README.md</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 04:28:14 +0000    11679 bytes  doc/fr/index.md</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 04:28:14 +0000    12329 bytes  doc/it/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 04:28:14 +0000    11729 bytes  doc/it/index.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 04:28:14 +0000    13543 bytes  doc/ja/README.md</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 04:28:14 +0000    12870 bytes  doc/ja/index.md</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 04:28:14 +0000    12275 bytes  doc/ko/README.md</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 04:28:14 +0000    11657 bytes  doc/ko/index.md</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 04:28:14 +0000    12288 bytes  doc/pl/README.md</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 04:28:14 +0000    11667 bytes  doc/pl/index.md</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 04:28:14 +0000    15485 bytes  doc/ru/index.md</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 04:28:14 +0000    11003 bytes  doc/zh/README.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 04:28:14 +0000    10444 bytes  doc/zh/index.md</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 04:28:14 +0000     3637 bytes  package.json</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 04:28:14 +0000     9422 bytes  plugin.xml</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 04:28:14 +0000     3626 bytes  src/android/Geolocation.java</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 04:28:14 +0000     2282 bytes  src/firefoxos/GeolocationProxy.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 04:28:14 +0000     2465 bytes  src/ios/CDVLocation.h</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 04:28:14 +0000    14640 bytes  src/ios/CDVLocation.m</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 04:28:14 +0000     3938 bytes  src/ubuntu/geolocation.cpp</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 04:28:14 +0000     1789 bytes  src/ubuntu/geolocation.h</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 04:28:14 +0000     7701 bytes  src/windows/GeolocationProxy.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 04:28:14 +0000     1116 bytes  src/wp/GeoLocation.cs</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 04:28:14 +0000     1324 bytes  tests/plugin.xml</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 04:28:14 +0000    18076 bytes  tests/tests.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 04:28:14 +0000     1976 bytes  www/Coordinates.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 04:28:14 +0000     1262 bytes  www/Position.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 04:28:14 +0000     1275 bytes  www/PositionError.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 04:28:14 +0000     2666 bytes  www/android/geolocation.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 04:28:14 +0000     2162 bytes  www/blackberry10/GeolocationProxy.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 04:28:14 +0000     8530 bytes  www/geolocation.js</tspan>
+</text>
+</svg>

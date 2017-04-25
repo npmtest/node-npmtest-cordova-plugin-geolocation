@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation)",
+    "description": "#### basic test coverage for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation)",
     "devDependencies": {
         "cordova-plugin-geolocation": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

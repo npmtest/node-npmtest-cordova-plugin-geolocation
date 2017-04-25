@@ -1,6 +1,6 @@
 # npmtest-cordova-plugin-geolocation
 
-#### test coverage for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation)
+#### basic test coverage for  [cordova-plugin-geolocation (v2.4.2)](https://github.com/apache/cordova-plugin-geolocation#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-plugin-geolocation.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-plugin-geolocation) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-plugin-geolocation)
 
 #### Cordova Geolocation Plugin
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-geolocation/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cordova-plugin-geolocation/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cordova-plugin-geolocation/build/coverage.html/index.html)
 
@@ -120,7 +120,8 @@
         "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests",
         "test": "npm run jshint"
     },
-    "version": "2.4.2"
+    "version": "2.4.2",
+    "bin": {}
 }
 ```
 
